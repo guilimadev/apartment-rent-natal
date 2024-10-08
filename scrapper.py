@@ -254,11 +254,11 @@ def builder_parnamirim():
     df_apartments['Bairro'] = df_apartments['Localização'].apply(extract_neighborhood)
     
     
-    df_apartments['Aluguel'] = df_apartments['Aluguel'].replace(r'[^\d]', '', regex=True).astype(float)
+    #df_apartments['Aluguel'] = df_apartments['Aluguel'].replace(r'[^\d]', '', regex=True).astype(float)
     st.write(df_apartments)
     df_apartments.to_csv('apartments_parnamirim.csv', index=False)
     return df_apartments
     # Close the browser
 
 #builder_natal()
-builder_parnamirim()
+#builder_parnamirim()
