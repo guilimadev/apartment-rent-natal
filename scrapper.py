@@ -97,7 +97,7 @@ def builder():
     df_list = []
 
     # Loop through the first 5 pages
-    for page in range(1, 2):
+    for page in range(1, 16):
         df_page = scrape_page(page)    
         df_list.append(df_page)
         
@@ -122,6 +122,7 @@ def builder():
     df_apartments['Bairro'] = df_apartments['Localização'].apply(extract_neighborhood)
     
     st.write(df_apartments)
+    df_apartments.to_csv('apartments.csv', index=False)
     return df_apartments
     # Close the browser
 

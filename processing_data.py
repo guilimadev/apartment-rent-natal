@@ -5,10 +5,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-from scrapper import builder
 
 
-df_apartments = builder()
+df_apartments = pd.read_csv('apartments.csv')
 df_apartments = df_apartments[~df_apartments['Aluguel'].str.contains('/dia')]
 df_apartments['Aluguel'] = df_apartments['Aluguel'].replace(r'[^\d]', '', regex=True).astype(float)
 
