@@ -13,6 +13,7 @@ import re
 import streamlit as st
 from selenium.common.exceptions import StaleElementReferenceException
 
+
 @st.cache_data
 def builder():
     # Base URL without the page parameter
@@ -106,7 +107,7 @@ def builder():
     df_list = []
 
     # Loop through the first 5 pages
-    for page in range(1, 17):
+    for page in range(1, 2):
         df_page = scrape_page(page)    
         df_list.append(df_page)
         
@@ -130,7 +131,8 @@ def builder():
 
     df_apartments['Bairro'] = df_apartments['Localização'].apply(extract_neighborhood)
     
-    
+    st.write(df_apartments)
     return df_apartments
     # Close the browser
 
+builder()
