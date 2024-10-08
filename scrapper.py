@@ -159,7 +159,8 @@ def builder_parnamirim():
         service = Service(ChromeDriverManager().install())
         wd = webdriver.Chrome(service=service, options=options)
         # Open the URL for the current page
-        url = base_url.format(page=page)
+        page = 1
+        url = base_url.format(page=1)
         wd.get(url)
         
         # Wait for the page to load
@@ -221,6 +222,7 @@ def builder_parnamirim():
     service = Service(ChromeDriverManager().install())
     wd = webdriver.Chrome(service=service, options=options)
     # Open the URL for the current page
+    
     url = base_url.format(page=1)
     wd.get(url)
     total = get_elements_with_retries(By.CLASS_NAME, "results-summary__count")
@@ -229,7 +231,7 @@ def builder_parnamirim():
     total_pages = math.ceil(total_pages)
     st.write(total_pages)
     # Loop through the first 5 pages
-    for page in range(1, total_pages):
+    for page in range(1, total_pages + 1):
         df_page = scrape_page(page)    
         df_list.append(df_page)
         

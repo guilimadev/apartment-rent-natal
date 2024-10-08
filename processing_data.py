@@ -11,19 +11,19 @@ url_csv_natal = 'https://raw.githubusercontent.com/guilimadev/apartment-rent-nat
 df_parnamirim = pd.read_csv(url_csv_parna)
 df_natal = pd.read_csv(url_csv_natal)
 
-st.write(df_parnamirim.head())
-st.write(df_natal.head())
+
 df_apartments = pd.concat([df_parnamirim, df_natal], ignore_index=True, sort=False)
 #df_apartments = df_apartments[~df_apartments['Aluguel'].str.contains('/dia')]
 df_apartments['Aluguel'] = df_apartments['Aluguel'].replace(r'[^\d]', '', regex=True).astype(float)
-st.write(df_apartments)
+
 
 
 # Keep a copy of the original 'Bairro' column for filtering
 bairros = df_apartments['Bairro'].copy()
 
 # Create a copy of the original data before normalization
-df_apartments_original = df_apartments.copy() 
+df_apartments_original = df_apartments.copy()
+
 df_apartments = pd.get_dummies(df_apartments, columns=['Bairro'])
 
 # Convert columns to numeric
@@ -97,7 +97,9 @@ good_price = st.sidebar.checkbox("Recomendados")
 sort_by = st.sidebar.selectbox("Ordernar por:", options=['Bairro', 'Aluguel', 'Tamanho'], index=0)
 sort_order = st.sidebar.radio("Ordem de ordenação", options=['Ascendente', 'Descendente'], index=0)
 
-# Apply sorting
+# Create clickable links in the DataFrame
+def make_clickable(link):
+    return f'<a href="{link}" target="_blank">View Apartment</a>'
 
 # Apply filters using original data
 filtered_df = df_apartments_original[
@@ -108,20 +110,21 @@ filtered_df = df_apartments_original[
 filtered_df = filtered_df.rename(columns={'is_good_rent': 'Recomendado', 'Extras': 'Condominio (quando não incluso)'})
 # Filter further if good prices checkbox is checked
 if good_price:
-    filtered_df = filtered_df[filtered_df['Recomendado'] == 'Sim']
+    filtered_df = filtered_df[filtered_df['Recomendado'] == 'Sim']    
 
 if sort_order == 'Ascendente':
     filtered_df = filtered_df.sort_values(by=sort_by, ascending=True)
+    filtered_df['Link'] = filtered_df['Link'].apply(make_clickable)
+    
 else:
     filtered_df = filtered_df.sort_values(by=sort_by, ascending=False)
+    filtered_df['Link'] = filtered_df['Link'].apply(make_clickable)
 
-
-# Create clickable links in the DataFrame
-def make_clickable(link):
-    return f'<a href="{link}" target="_blank">View Apartment</a>'
 
 # Apply the clickable link to the Link column
-filtered_df['Link'] = filtered_df['Link'].apply(make_clickable)
+
+
+
 
 # Display the filtered DataFrame with original values in Streamlit
 count_df = filtered_df.shape[0]  # Get the number of rows in the filtered DataFrame
