@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 
-url_csv = 'https://github.com/guilimadev/apartment-rent-natal/blob/main/apartments.csv'
+url_csv = 'https://raw.githubusercontent.com/guilimadev/apartment-rent-natal/main/apartments.csv'
 df_apartments = pd.read_csv(url_csv)
 df_apartments = df_apartments[~df_apartments['Aluguel'].str.contains('/dia')]
 df_apartments['Aluguel'] = df_apartments['Aluguel'].replace(r'[^\d]', '', regex=True).astype(float)
