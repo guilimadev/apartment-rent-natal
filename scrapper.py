@@ -19,33 +19,23 @@ def builder():
     # Base URL without the page parameter
     base_url = "https://www.vivareal.com.br/aluguel/rio-grande-do-norte/natal/apartamento_residencial/?pagina={page}#onde=,Rio%20Grande%20do%20Norte,Natal,,,,,city,BR>Rio%20Grande%20do%20Norte>NULL>Natal,,,&preco-ate=3000&preco-total=sim"
 
-    @st.cache_resource
-    def get_driver():
-        return webdriver.Chrome(
-            service=
-                Service(ChromeDriverManager().install())
-            ,
-            options=options,
-        )
-
-    # Setting up the Chrome WebDriver
-    options = Options()
-    #options.binary_location = "/usr/bin/google-chrome"
-    options.add_argument("--headless")  # Add headless mode if necessary
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--disable-features=NetworkService")
-    options.add_argument("--window-size=1920x1080")
-    options.add_argument("--disable-features=VizDisplayCompositor")
-
-
+   
 
     # Function to scrape data for a single page
     def scrape_page(page):
+         # Setting up the Chrome WebDriver
+        options = Options()
+        #options.binary_location = "/usr/bin/google-chrome"
+        #options.add_argument("--headless")  # Add headless mode if necessary
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--disable-features=NetworkService")
+        options.add_argument("--window-size=1920x1080")
+        options.add_argument("--disable-features=VizDisplayCompositor")
         # Initialize the WebDriver
-        #service = Service(ChromeDriverManager().install())
-        wd = get_driver()
+        service = Service(ChromeDriverManager().install())
+        wd = webdriver.Chrome(service=service, options=options)
         # Open the URL for the current page
         url = base_url.format(page=page)
         wd.get(url)
