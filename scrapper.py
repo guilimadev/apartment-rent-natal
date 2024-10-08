@@ -141,8 +141,25 @@ def builder_parnamirim():
                 time.sleep(2)  # Wait before retrying
         return []
 
-   
-
+    options = Options()
+    #options.binary_location = "/usr/bin/google-chrome"
+    #options.add_argument("--headless")  # Add headless mode if necessary
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-features=NetworkService")
+    options.add_argument("--window-size=1920x1080")
+    options.add_argument("--disable-features=VizDisplayCompositor")
+    service = Service(ChromeDriverManager().install())
+    wd = webdriver.Chrome(service=service, options=options)
+    # Open the URL for the current page
+    
+    url = base_url.format(page=1)
+    wd.get(url)
+    total = get_elements_with_retries(By.CLASS_NAME, "results-summary__count")
+    st.write(total)
+    total_pages = int(total[0].split()[0]) / 36
+    total_pages = math.ceil(total_pages)
     # Function to scrape data for a single page
     def scrape_page(page):
          # Setting up the Chrome WebDriver
@@ -158,9 +175,8 @@ def builder_parnamirim():
         # Initialize the WebDriver
         service = Service(ChromeDriverManager().install())
         wd = webdriver.Chrome(service=service, options=options)
-        # Open the URL for the current page
-        page = 1
-        url = base_url.format(page=1)
+        # Open the URL for the current page        
+        url = base_url.format(page=page)
         wd.get(url)
         
         # Wait for the page to load
@@ -209,29 +225,12 @@ def builder_parnamirim():
     # List to store all scraped DataFrames
     df_list = []
 
-    options = Options()
-    #options.binary_location = "/usr/bin/google-chrome"
-    #options.add_argument("--headless")  # Add headless mode if necessary
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--disable-features=NetworkService")
-    options.add_argument("--window-size=1920x1080")
-    options.add_argument("--disable-features=VizDisplayCompositor")
-    # Initialize the WebDriver
-    service = Service(ChromeDriverManager().install())
-    wd = webdriver.Chrome(service=service, options=options)
-    # Open the URL for the current page
     
-    url = base_url.format(page=1)
-    wd.get(url)
-    total = get_elements_with_retries(By.CLASS_NAME, "results-summary__count")
-    st.write(total)
-    total_pages = int(total[0].split()[0]) / 36
-    total_pages = math.ceil(total_pages)
+    # Initialize the WebDriver
+    
     st.write(total_pages)
     # Loop through the first 5 pages
-    for page in range(1, total_pages + 1):
+    for page in range(1, total_pages):
         df_page = scrape_page(page)    
         df_list.append(df_page)
         
