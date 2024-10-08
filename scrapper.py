@@ -22,16 +22,16 @@ def builder():
     @st.cache_resource
     def get_driver():
         return webdriver.Chrome(
-            service=Service(
-                ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
-            ),
+            service=
+                Service(ChromeDriverManager().install())
+            ,
             options=options,
         )
 
     # Setting up the Chrome WebDriver
     options = Options()
     #options.binary_location = "/usr/bin/google-chrome"
-    #options.add_argument("--headless")  # Add headless mode if necessary
+    options.add_argument("--headless")  # Add headless mode if necessary
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
@@ -135,4 +135,3 @@ def builder():
     return df_apartments
     # Close the browser
 
-builder()
