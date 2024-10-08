@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.os_manager import ChromeType
 
 import time
 import pandas as pd
@@ -17,9 +18,18 @@ def builder():
     # Base URL without the page parameter
     base_url = "https://www.vivareal.com.br/aluguel/rio-grande-do-norte/natal/apartamento_residencial/?pagina={page}#onde=,Rio%20Grande%20do%20Norte,Natal,,,,,city,BR>Rio%20Grande%20do%20Norte>NULL>Natal,,,&preco-ate=3000&preco-total=sim"
 
+    @st.cache_resource
+    def get_driver():
+        return webdriver.Chrome(
+            service=Service(
+                ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
+            ),
+            options=options,
+        )
+
     # Setting up the Chrome WebDriver
     options = Options()
-    options.binary_location = "/usr/bin/google-chrome"
+    #options.binary_location = "/usr/bin/google-chrome"
     #options.add_argument("--headless")  # Add headless mode if necessary
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
@@ -33,8 +43,8 @@ def builder():
     # Function to scrape data for a single page
     def scrape_page(page):
         # Initialize the WebDriver
-        service = Service(ChromeDriverManager().install())
-        wd = webdriver.Chrome(service=service, options=options)
+        #service = Service(ChromeDriverManager().install())
+        wd = get_driver()
         # Open the URL for the current page
         url = base_url.format(page=page)
         wd.get(url)
