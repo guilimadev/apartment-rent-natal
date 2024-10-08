@@ -12,6 +12,7 @@ import pandas as pd
 import re
 import streamlit as st
 from selenium.common.exceptions import StaleElementReferenceException
+import math
 
 
 @st.cache_data
@@ -224,7 +225,9 @@ def builder_parnamirim():
     wd.get(url)
     total = get_elements_with_retries(By.CLASS_NAME, "results-summary__count")
     st.write(total)
-    total_pages = int(total[0].split()[0]) // 36
+    total_pages = int(total[0].split()[0]) / 36
+    total_pages = math.ceil(total_pages)
+    st.write(total_pages)
     # Loop through the first 5 pages
     for page in range(1, total_pages):
         df_page = scrape_page(page)    
