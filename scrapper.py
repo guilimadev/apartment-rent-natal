@@ -79,7 +79,7 @@ def builder_natal():
         cards = wd.find_elements(By.CLASS_NAME, "property-card__values")
         # Extracting prices (rent + condo) for all cards
         extras = [extract_price_and_condo(card) for card in cards]        
-        links = [link.get_attribute("href") for link in link_elements]
+        #links = [link.get_attribute("href") for link in link_elements]
 
         # Return data in a DataFrame format
         return pd.DataFrame({
@@ -89,7 +89,7 @@ def builder_natal():
             "Tamanho": sizes,
             "Quartos": quartos,
             "Banheiros": banheiros,
-            "Link": links
+            #"Link": links
         })
 
         wd.quit()
@@ -98,7 +98,7 @@ def builder_natal():
     df_list = []
 
     # Loop through the first 5 pages
-    for page in range(1, 16):
+    for page in range(1, 10):
         df_page = scrape_page(page)    
         df_list.append(df_page)
         
@@ -261,5 +261,5 @@ def builder_parnamirim():
     return df_apartments
     # Close the browser
 
-#builder_natal()
-#builder_parnamirim()
+builder_natal()
+builder_parnamirim()
