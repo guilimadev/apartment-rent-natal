@@ -1,346 +1,79 @@
-Aluguel,Extras,Localização,Tamanho,Quartos,Banheiros,Bairro
-R$ 1.200 /mês,250.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,1 Banheiro,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",109,2 Quartos,3 Banheiros,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,Pitimbu
+Aluguel,Extras,Localização,Tamanho,Quartos,Banheiros,Link,Bairro
+R$ 3.500 /mês,250.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-70m2-aluguel-RS1200-id-2753763717/,Neópolis
+R$ 1.200 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-candelaria-bairros-natal-com-garagem-68m2-aluguel-RS1400-id-2753946494/,Candelária
+R$ 1.400 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-50m2-aluguel-RS1500-id-2753943809/,Pitimbu
+R$ 1.500 /mês,550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-57m2-aluguel-RS1800-id-2752595827/,Pitimbu
+R$ 1.800 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-1-quartos-ponta-negra-bairros-natal-com-garagem-45m2-aluguel-RS2000-id-2753532725/,Ponta Negra
+R$ 3.000 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-redinha-bairros-natal-com-garagem-54m2-aluguel-RS1500-id-2753519828/,Redinha
+R$ 3.200 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-1-quartos-ponta-negra-bairros-natal-com-garagem-40m2-aluguel-RS3000-id-2753325895/,Ponta Negra
+R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-54m2-aluguel-RS2300-id-2754458404/,Ponta Negra
 "R$ 1.900 /mês
-Preço abaixo do mercado",1.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,Capim Macio
-R$ 1.800 /mês,550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,Pitimbu
-R$ 2.300 /mês,0.0,"Rua Doutor Múcio Galvão, 411 - Barro Vermelho, Natal - RN",55,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 1.300 /mês,0.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,1 Banheiro,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,2 Banheiros,Neópolis
-R$ 2.500 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,2 Banheiros,Pitimbu
-R$ 3.200 /mês,0.0,"Rua das Algas - Ponta Negra, Natal - RN",49,2 Quartos,1 Banheiro,Ponta Negra
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 5.800 /mês,0.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",115,3 Quartos,4 Banheiros,Tirol
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,0.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,Tirol
+Preço abaixo do mercado",1.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-capim-macio-bairros-natal-com-garagem-80m2-aluguel-RS1900-id-2753627798/,Capim Macio
+R$ 2.700 /mês,0.0,"Rua Barão de Lucena, 62 - Pitimbu, Natal - RN",83,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-pitimbu-bairros-natal-com-garagem-83m2-aluguel-RS2700-id-2750633594/,Pitimbu
+R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-capim-macio-bairros-natal-com-garagem-55m2-aluguel-RS2500-id-2753947211/,Capim Macio
+R$ 1.850 /mês,0.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-55m2-aluguel-RS1850-id-2752992668/,Ponta Negra
+R$ 1.900 /mês,1.0,"Rua Carapeba, 95 - Ponta Negra, Natal - RN",60,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-60m2-aluguel-RS1900-id-2750939315/,Ponta Negra
+R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-neopolis-bairros-natal-com-garagem-67m2-aluguel-RS3000-id-2753857794/,Neópolis
+R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-50m2-aluguel-RS950-id-2556794641/,Neópolis
+R$ 2.000 /mês,0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-55m2-aluguel-RS1700-id-2754202546/,Ponta Negra
 "R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.400 /mês,0.0,"Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,0.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,Capim Macio
-R$ 1.600 /mês,0.0,"Lagoa Seca, Natal - RN",114,3 Quartos,3 Banheiros,Lagoa Seca
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,Neópolis
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.790 /mês,0.0,"Rua Jundiaí, 429 - Tirol, Natal - RN",57,2 Quartos,1 Banheiro,Tirol
-R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,0.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",70,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 3.900 /mês,0.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",70,1 Quarto,2 Banheiros,Areia Preta
-R$ 2.800 /mês,0.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",75,3 Quartos,2 Banheiros,Ribeira
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 1.200 /mês,250.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,1 Banheiro,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",109,2 Quartos,3 Banheiros,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,Pitimbu
-R$ 1.800 /mês,550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,Pitimbu
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.300 /mês,0.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,1 Banheiro,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,2 Banheiros,Neópolis
-R$ 3.200 /mês,0.0,"Rua das Algas - Ponta Negra, Natal - RN",49,2 Quartos,1 Banheiro,Ponta Negra
-R$ 5.800 /mês,0.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",115,3 Quartos,4 Banheiros,Tirol
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,0.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,Tirol
-"R$ 1.900 /mês
-Preço abaixo do mercado",1.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,Capim Macio
+Preço abaixo do mercado",0.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-tirol-bairros-natal-com-garagem-70m2-aluguel-RS2500-id-2751790739/,Tirol
+R$ 1.500 /mês,0.0,"Rua Jundiaí, 429 - Tirol, Natal - RN",57,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-com-garagem-57m2-aluguel-RS2790-id-2751115418/,Tirol
+R$ 3.400 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-56m2-aluguel-RS2500-id-2751586639/,Pitimbu
+R$ 2.500 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-50m2-aluguel-RS1100-id-2753274290/,Tirol
+R$ 2.790 /mês,650.0,"Rua Alberto Silva, 1375 - Lagoa Seca, Natal - RN",113,3 Quartos,3 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-lagoa-seca-bairros-natal-com-garagem-113m2-aluguel-RS1600-id-2753233647/,Lagoa Seca
+R$ 2.500 /mês,345.0,"Rua Joaquim Eduardo de Farias, 105 - Ponta Negra, Natal - RN",88,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-88m2-aluguel-RS1300-id-2745240320/,Ponta Negra
+R$ 1.100 /mês,0.0,"Avenida Governador Juvenal Lamartine, 1012 - Tirol, Natal - RN",58,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-com-garagem-58m2-aluguel-RS2400-id-2691025479/,Tirol
+R$ 250 /dia,0.0,"Rua Doutor Múcio Galvão, 411 - Barro Vermelho, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-barro-vermelho-bairros-natal-com-garagem-55m2-aluguel-RS2300-id-2753576306/,Barro Vermelho
+R$ 1.600 /mês,0.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-cidade-da-esperanca-bairros-natal-44m2-aluguel-RS1300-id-2667621710/,Cidade da Esperança
+"R$ 1.300 /mês
+Preço abaixo do mercado",550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-57m2-aluguel-RS1800-id-2752634602/,Pitimbu
+R$ 2.400 /mês,1.0,"Rua dos Pintassilgos, 90 - Pitimbu, Natal - RN",58,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-58m2-aluguel-RS2100-id-2754246819/,Pitimbu
+R$ 2.300 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-56m2-aluguel-RS2500-id-2748434296/,Ponta Negra
+R$ 500 /dia,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-3-quartos-capim-macio-bairros-natal-com-garagem-76m2-aluguel-RS2300-id-2753008517/,Capim Macio
+R$ 1.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",52,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-52m2-aluguel-RS2200-id-2750000742/,Ponta Negra
+R$ 1.800 /mês,650.0,"Lagoa Seca, Natal - RN",114,3 Quartos,3 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-lagoa-seca-bairros-natal-com-garagem-114m2-aluguel-RS1600-id-2753279500/,Lagoa Seca
+R$ 2.100 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-55m2-aluguel-RS2700-id-2745190234/,Ponta Negra
+R$ 2.500 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-56m2-aluguel-RS2200-id-2753106801/,Neópolis
+R$ 2.300 /mês,503.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-56m2-aluguel-RS1200-id-2746228609/,Neópolis
+R$ 2.200 /mês,500.0,"Neópolis, Natal - RN",67,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-67m2-aluguel-RS1900-id-2753404915/,Neópolis
+R$ 1.600 /mês,0.0,"Rua Doutor Amaro Ienaga, 290 - Pajuçara, Natal - RN",45,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pajucara-bairros-natal-com-garagem-45m2-aluguel-RS1000-id-2752645112/,Pajuçara
+"R$ 2.100 /mês
+Preço abaixo do mercado",0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",52,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-52m2-aluguel-RS2100-id-2752507898/,Ponta Negra
+R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-54m2-aluguel-RS1750-id-2746746103/,Ponta Negra
+"R$ 750 /mês
+Preço abaixo do mercado",470.0,"Rua Minas Novas, 100 - Neópolis, Natal - RN",54,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-54m2-aluguel-RS750-id-2745251311/,Neópolis
+R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-parnamirim-bairros-natal-com-garagem-56m2-aluguel-RS1380-id-2754063194/,PARNAMIRIM
+R$ 790 /mês,430.0,"Rua Pintor Newton Navarro - Pitimbu, Natal - RN",57,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pitimbu-bairros-natal-com-garagem-57m2-aluguel-RS790-id-2754489820/,Pitimbu
+R$ 2.100 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-54m2-aluguel-RS2100-id-2752541338/,Ponta Negra
+R$ 950 /mês,0.0,"Rua Sebastião Medeiros, 200 - Ponta Negra, Natal - RN",34,1 Quarto,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-1-quartos-ponta-negra-bairros-natal-com-garagem-34m2-aluguel-RS950-id-2753623297/,Ponta Negra
+R$ 2.400 /mês,0.0,"Rua da Saudade, 905 - Nova Descoberta, Natal - RN",73,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-nova-descoberta-bairros-natal-com-garagem-73m2-aluguel-RS2400-id-2752831510/,Nova Descoberta
+R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-50m2-aluguel-RS1100-id-2753274290/,Tirol
+R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza - Capim Macio, Natal - RN",56,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-capim-macio-bairros-natal-com-garagem-56m2-aluguel-RS2500-id-2754490093/,Capim Macio
+R$ 2.000 /mês,1.0,"Rua Eletricista Elias Ferreira, 32 - Candelária, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-candelaria-bairros-natal-com-garagem-56m2-aluguel-RS2000-id-2754160002/,Candelária
+R$ 2.000 /mês,0.0,"Rua Edson Teixeira da Silva, 279 - Ponta Negra, Natal - RN",46,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-46m2-aluguel-RS2000-id-2751580439/,Ponta Negra
+R$ 2.100 /mês,400.0,"Rua Jornalista Haroldo Gurgel - Lagoa Nova, Natal - RN",65,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-lagoa-nova-bairros-natal-com-garagem-65m2-aluguel-RS2100-id-2754161627/,Lagoa Nova
+R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-capim-macio-bairros-natal-com-garagem-56m2-aluguel-RS1800-id-2752832394/,Capim Macio
+R$ 1.000 /mês,0.0,"Avenida Moema Tinoco da Cunha Lima, 805 - Pajuçara, Natal - RN",45,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pajucara-bairros-natal-com-garagem-45m2-aluguel-RS1000-id-2752673231/,Pajuçara
+R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-neopolis-bairros-natal-com-garagem-56m2-aluguel-RS2200-id-2577138603/,Neópolis
+R$ 2.000 /mês,0.0,"Rua Joaquim Eduardo de Farias, 209 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-55m2-aluguel-RS2000-id-2750985204/,Ponta Negra
+R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-candelaria-bairros-natal-com-garagem-80m2-aluguel-RS2200-id-2752675797/,Candelária
+R$ 2.200 /mês,0.0,"Rua Joaquim Fabrício, 260 - Petrópolis, Natal - RN",60,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-petropolis-bairros-natal-com-garagem-60m2-venda-RS260000-id-2718069967/,Petrópolis
+R$ 2.100 /mês,0.0,"Avenida Estrela do Mar - Ponta Negra, Natal - RN",50,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-50m2-aluguel-RS2100-id-2745734301/,Ponta Negra
+R$ 2.499 /mês,0.0,"Avenida Deputado Antônio Florêncio de Queiroz - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-56m2-aluguel-RS2499-id-2754423032/,Ponta Negra
 "R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.400 /mês,0.0,"Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,0.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,Capim Macio
-R$ 1.600 /mês,650.0,"Lagoa Seca, Natal - RN",114,3 Quartos,3 Banheiros,Lagoa Seca
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,Neópolis
-R$ 2.500 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,2 Banheiros,Pitimbu
-R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,0.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",70,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 3.900 /mês,0.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",70,1 Quarto,2 Banheiros,Areia Preta
-R$ 2.800 /mês,0.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",75,3 Quartos,2 Banheiros,Ribeira
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,1 Banheiro,Capim Macio
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 2.100 /mês,0.0,"Rua Aurélio Pinheiro, 637 - Barro Vermelho, Natal - RN",60,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 1.900 /mês,0.0,"Rua General Gustavo Cordeiro de Faria, 345 - Petrópolis, Natal - RN",55,2 Quartos,2 Banheiros,Petrópolis
-R$ 1.200 /mês,0.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,2 Banheiros,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",109,2 Quartos,2 Banheiros,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,430.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,Pitimbu
-R$ 1.800 /mês,0.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,Pitimbu
-R$ 1.300 /mês,400.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,2 Banheiros,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,1 Banheiro,Neópolis
-R$ 3.200 /mês,312.0,"Rua das Algas - Ponta Negra, Natal - RN",49,2 Quartos,1 Banheiro,Ponta Negra
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,2 Banheiros,Ponta Negra
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,800.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.100 /mês,1.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,2 Banheiros,Tirol
-"R$ 1.900 /mês
-Preço abaixo do mercado",345.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,Capim Macio
-R$ 5.800 /mês,450.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",115,3 Quartos,2 Banheiros,Tirol
-"R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.400 /mês,1.0,"Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,1.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,468.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,Capim Macio
-R$ 1.600 /mês,0.0,"Lagoa Seca, Natal - RN",114,3 Quartos,2 Banheiros,Lagoa Seca
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.200 /mês,615.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,Neópolis
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,2 Banheiros,Capim Macio
-R$ 2.790 /mês,470.0,"Rua Jundiaí, 429 - Tirol, Natal - RN",57,2 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,1 Banheiro,Pitimbu
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,0.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",70,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 3.900 /mês,0.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",70,1 Quarto,1 Banheiro,Areia Preta
-R$ 2.800 /mês,650.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",75,3 Quartos,2 Banheiros,Ribeira
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 2.100 /mês,0.0,"Rua Aurélio Pinheiro, 637 - Barro Vermelho, Natal - RN",60,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 1.900 /mês,0.0,"Rua General Gustavo Cordeiro de Faria, 345 - Petrópolis, Natal - RN",55,2 Quartos,2 Banheiros,Petrópolis
-R$ 1.200 /mês,250.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,1 Banheiro,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",109,2 Quartos,3 Banheiros,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,Pitimbu
-"R$ 1.900 /mês
-Preço abaixo do mercado",1.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,Capim Macio
-R$ 1.800 /mês,550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,Pitimbu
-R$ 2.300 /mês,0.0,"Rua Doutor Múcio Galvão, 411 - Barro Vermelho, Natal - RN",55,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.300 /mês,0.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,1 Banheiro,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,2 Banheiros,Neópolis
-R$ 2.500 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,2 Banheiros,Pitimbu
-R$ 3.200 /mês,0.0,"Rua das Algas - Ponta Negra, Natal - RN",49,2 Quartos,1 Banheiro,Ponta Negra
-R$ 5.800 /mês,0.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",115,3 Quartos,4 Banheiros,Tirol
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,0.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,Tirol
-"R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.400 /mês,0.0,"Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,0.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,Capim Macio
-R$ 1.600 /mês,650.0,"Lagoa Seca, Natal - RN",114,3 Quartos,3 Banheiros,Lagoa Seca
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,Neópolis
-R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,580.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",70,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 3.900 /mês,790.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",70,1 Quarto,2 Banheiros,Areia Preta
-R$ 2.800 /mês,500.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",75,3 Quartos,2 Banheiros,Ribeira
-R$ 2.300 /mês,1.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,1 Banheiro,Capim Macio
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 2.100 /mês,1.0,"Rua Aurélio Pinheiro, 637 - Barro Vermelho, Natal - RN",60,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 1.000 /mês,290.0,"Candelária, Natal - RN",69,3 Quartos,2 Banheiros,Candelária
-R$ 2.990 /mês,0.0,"Avenida Deputado Antônio Florêncio de Queiroz, 2995 - Ponta Negra, Natal - RN",59,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.900 /mês,0.0,"Rua Amaro Mesquita, 295 - Lagoa Nova, Natal - RN",45,1 Quarto,1 Banheiro,Lagoa Nova
-"R$ 1.000 /mês
-Preço abaixo do mercado",220.0,"Avenida Ayrton Senna, 3081 - Neópolis, Natal - RN",55,2 Quartos,2 Banheiros,Neópolis
-R$ 2.250 /mês,0.0,"Rua Humberto Monte, 1894 - Capim Macio, Natal - RN",68,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.700 /mês,0.0,"Rua Missionário Joel Carlson, 1915 - Capim Macio, Natal - RN",55,2 Quartos,2 Banheiros,Capim Macio
-R$ 740 /mês,110.0,"Avenida Ayrton Senna - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.000 /mês,0.0,"Avenida Engenheiro Roberto Freire, 4792 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.000 /mês,0.0,"Avenida dos Caiapós - Pitimbu, Natal - RN",51,2 Quartos,1 Banheiro,Pitimbu
-R$ 2.100 /mês,0.0,"Rua da Campina, 140 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.200 /mês,800.0,"Rua Doutor Paulo Viveiros, 554 - Petrópolis, Natal - RN",60,2 Quartos,2 Banheiros,Petrópolis
-R$ 2.300 /mês,0.0,"Rua Professora Francisca Ivone Cavalcanti, 75 - Ponta Negra, Natal - RN",54,1 Quarto,2 Banheiros,Ponta Negra
-R$ 2.800 /mês,0.0,"Rua do Golfinho, 350 - Ponta Negra, Natal - RN",59,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.250 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 885 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.800 /mês,0.0,"Rua Vereador Manoel Sátiro, 0 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.000 /mês,0.0,"Avenida Engenheiro Roberto Freire, 4792 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.100 /mês,0.0,"Rua dos Potiguares, 1843 - Lagoa Nova, Natal - RN",72,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 2.500 /mês,500.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",78,3 Quartos,2 Banheiros,Ribeira
-R$ 2.800 /mês,0.0,"Rua do Golfinho - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-"R$ 880 /mês
-Preço abaixo do mercado",320.0,"Rua Minas Novas, 225 - Neópolis, Natal - RN",60,2 Quartos,1 Banheiro,Neópolis
-R$ 2.199 /mês,0.0,"Capim Macio, Natal - RN",68,3 Quartos,1 Banheiro,Capim Macio
-"R$ 1.400 /mês
-Preço abaixo do mercado",324.0,"Rua Joaquim Eduardo de Farias - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.000 /mês,0.0,"Rua Praia de Camurupim, 8968 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.500 /mês,450.0,"Rua Comerciário Carlos Serrano, 2003 - Lagoa Nova, Natal - RN",62,2 Quartos,1 Banheiro,Lagoa Nova
-R$ 2.400 /mês,0.0,"Rua Alberto Maranhão - Tirol, Natal - RN",75,3 Quartos,2 Banheiros,Tirol
-"R$ 2.500 /mês
-Preço abaixo do mercado",0.0,"Avenida Praia de Ponta Negra - Ponta Negra, Natal - RN",58,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.600 /mês,0.0,"Ribeira, Natal - RN",56,2 Quartos,1 Banheiro,Ribeira
-R$ 2.000 /mês,0.0,"Avenida dos Caiapós, 1945 - Pitimbu, Natal - RN",51,2 Quartos,1 Banheiro,Pitimbu
-R$ 1.800 /mês,300.0,"Candelária, Natal - RN",56,2 Quartos,2 Banheiros,Candelária
-R$ 1.100 /mês,0.0,"Rua Santa Rita, 135 - Ponta Negra, Natal - RN",46,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.600 /mês,350.0,"Lagoa Nova, Natal - RN",36,1 Quarto,1 Banheiro,Lagoa Nova
-R$ 2.200 /mês,0.0,"Petrópolis, Natal - RN",56,2 Quartos,2 Banheiros,Petrópolis
-R$ 2.000 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.700 /mês,0.0,"Rua São José, 2026 - Lagoa Nova, Natal - RN",78,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 2.199 /mês,0.0,"Capim Macio, Natal - RN",68,3 Quartos,1 Banheiro,Capim Macio
-R$ 1.400 /mês,0.0,"Rua Minas Novas, 225 - Neópolis, Natal - RN",56,2 Quartos,1 Banheiro,Neópolis
-R$ 2.000 /mês,0.0,"Rua Edson Teixeira da Silva, 1 - Ponta Negra, Natal - RN",46,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.400 /mês,1.0,"Avenida Engenheiro Roberto Freire, 43 - Ponta Negra, Natal - RN",44,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.100 /mês,0.0,"Rua Abreulândia, 6637 - Planalto, Natal - RN",45,2 Quartos,1 Banheiro,Planalto
-R$ 2.050 /mês,0.0,"Avenida Deputado Antônio Florêncio de Queiroz - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",73,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.200 /mês,0.0,"Rua dos Pajeús - Alecrim, Natal - RN",54,2 Quartos,1 Banheiro,Alecrim
-R$ 1.350 /mês,0.0,"Avenida Poços de Caldas, 2035 - Ponta Negra, Natal - RN",45,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.950 /mês,0.0,"Rua Lúcia Viveiros, 649 - Neópolis, Natal - RN",72,3 Quartos,2 Banheiros,Neópolis
-R$ 2.000 /mês,0.0,"Rua Desembargador Dionísio Filgueira, 777 - Petrópolis, Natal - RN",56,2 Quartos,2 Banheiros,Petrópolis
-R$ 950 /mês,0.0,"Avenida Odilon Gomes de Lima, 1920 - Capim Macio, Natal - RN",45,1 Quarto,1 Banheiro,Capim Macio
-R$ 1.300 /mês,370.0,"Rua Edson Teixeira da Silva - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.900 /mês,380.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.700 /mês,0.0,"Rua Vereador Manoel Sátiro - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-"R$ 2.000 /mês
-Preço abaixo do mercado",0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",75,3 Quartos,2 Banheiros,Capim Macio
-R$ 2.750 /mês,0.0,"Avenida Praia de Ponta Negra, 9152 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 3.000 /mês,0.0,"Rua Desportista Fabrício Gomes Pedroza, 70 - Ponta Negra, Natal - RN",57,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.950 /mês,0.0,"Rua da Lagosta - Ponta Negra, Natal - RN",52,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.950 /mês,0.0,"Rua Joaquim Eduardo de Farias, 213 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.800 /mês,0.0,"Rua Jornalista Francisco Sinedino, 1140 - Lagoa Nova, Natal - RN",58,2 Quartos,2 Banheiros,Lagoa Nova
-R$ 1.450 /mês,310.0,"Rua Joaquim Eduardo de Farias, 209 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 900 /mês,130.0,"Rua Prefeito Expedito Alves, 1524 - Capim Macio, Natal - RN",55,3 Quartos,2 Banheiros,Capim Macio
-"R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua Edson Teixeira da Silva - Ponta Negra, Natal - RN",50,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.800 /mês,0.0,"Ponta Negra, Natal - RN",60,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.750 /mês,660.0,"Tirol, Natal - RN",55,2 Quartos,2 Banheiros,Tirol
-R$ 1.590 /mês,0.0,"Rua da Ametista, 32 - Lagoa Nova, Natal - RN",42,1 Quarto,1 Banheiro,Lagoa Nova
-R$ 550 /mês,60.0,"Rua São Vicente, 30 - Alecrim, Natal - RN",35,1 Quarto,1 Banheiro,Alecrim
-R$ 3.000 /mês,0.0,"Rua Estudante José Francisco de Souza Filho, 245 - Capim Macio, Natal - RN",74,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.300 /mês,0.0,"Rua Doutor Múcio Galvão, 0 - Barro Vermelho, Natal - RN",56,2 Quartos,1 Banheiro,Barro Vermelho
-R$ 2.000 /mês,0.0,"Avenida Almirante Alexandrino de Alencar, 900 - Lagoa Seca, Natal - RN",50,2 Quartos,1 Banheiro,Lagoa Seca
-R$ 2.600 /mês,1.0,"Avenida Engenheiro Roberto Freire, 21 - Ponta Negra, Natal - RN",60,2 Quartos,2 Banheiros,Ponta Negra
-R$ 850 /mês,0.0,"Rua Trovador Carlos Homem de Siqueira - Pajuçara, Natal - RN",40,2 Quartos,1 Banheiro,Pajuçara
-R$ 1.700 /mês,380.0,"Rua Edson Teixeira da Silva - Ponta Negra, Natal - RN",46,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.800 /mês,0.0,"Rua Ipanguaçu, 1500 - Tirol, Natal - RN",57,2 Quartos,2 Banheiros,Tirol
-R$ 2.900 /mês,0.0,"Rua Jundiaí, 400 - Tirol, Natal - RN",57,2 Quartos,2 Banheiros,Tirol
-R$ 1.200 /mês,250.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",70,2 Quartos,1 Banheiro,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",109,2 Quartos,3 Banheiros,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",68,3 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",50,2 Quartos,1 Banheiro,Pitimbu
-R$ 1.800 /mês,550.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",57,2 Quartos,2 Banheiros,Pitimbu
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.300 /mês,0.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",44,2 Quartos,1 Banheiro,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",67,3 Quartos,2 Banheiros,Neópolis
-R$ 3.200 /mês,0.0,"Rua das Algas - Ponta Negra, Natal - RN",49,2 Quartos,1 Banheiro,Ponta Negra
-R$ 5.800 /mês,0.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",115,3 Quartos,4 Banheiros,Tirol
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",50,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,0.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",55,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",50,2 Quartos,1 Banheiro,Tirol
-"R$ 1.900 /mês
-Preço abaixo do mercado",1.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",80,2 Quartos,2 Banheiros,Capim Macio
-"R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",55,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 3.400 /mês,0.0,"Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",80,2 Quartos,2 Banheiros,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",45,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",56,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,0.0,"Tirol, Natal - RN",70,3 Quartos,2 Banheiros,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",55,2 Quartos,1 Banheiro,Capim Macio
-R$ 1.600 /mês,650.0,"Lagoa Seca, Natal - RN",114,3 Quartos,3 Banheiros,Lagoa Seca
-R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,Capim Macio
-R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",56,2 Quartos,2 Banheiros,Neópolis
-R$ 2.500 /mês,0.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",56,2 Quartos,2 Banheiros,Pitimbu
-R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",54,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",54,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,580.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",70,3 Quartos,2 Banheiros,Lagoa Nova
-R$ 3.900 /mês,790.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",70,1 Quarto,2 Banheiros,Areia Preta
-R$ 2.800 /mês,500.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",75,3 Quartos,2 Banheiros,Ribeira
-R$ 2.300 /mês,1.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,1 Banheiro,Capim Macio
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",56,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 2.100 /mês,1.0,"Rua Aurélio Pinheiro, 637 - Barro Vermelho, Natal - RN",60,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 1.900 /mês,0.0,"Rua General Gustavo Cordeiro de Faria, 345 - Petrópolis, Natal - RN",55,2 Quartos,2 Banheiros,Petrópolis
-R$ 1.200 /mês,0.0,"Avenida dos Pinheirais - Neópolis, Natal - RN",50,1 Quarto,1 Banheiro,Neópolis
-R$ 3.500 /mês,0.0,"Rua Francisco Maia Sobrinho, 34667 - Lagoa Nova, Natal - RN",68,3 Quartos,1 Banheiro,Lagoa Nova
-R$ 1.400 /mês,0.0,"Rua Teca Sales, 3456 - Candelária, Natal - RN",60,2 Quartos,2 Banheiros,Candelária
-R$ 1.500 /mês,0.0,"Avenida dos Caiapós, 234 - Pitimbu, Natal - RN",46,2 Quartos,1 Banheiro,Pitimbu
-"R$ 1.900 /mês
-Preço abaixo do mercado",0.0,"Rua Pastor Gabino Brelaz, 1419 - Capim Macio, Natal - RN",67,2 Quartos,2 Banheiros,Capim Macio
-R$ 1.800 /mês,0.0,"Rua dos Pintassilgos, 70 - Pitimbu, Natal - RN",48,2 Quartos,1 Banheiro,Pitimbu
-R$ 2.300 /mês,0.0,"Rua Doutor Múcio Galvão, 411 - Barro Vermelho, Natal - RN",35,1 Quarto,1 Banheiro,Barro Vermelho
-R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 2155 - Ponta Negra, Natal - RN",33,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.300 /mês,100.0,"Rua Gramado, 32 - Cidade da Esperança, Natal - RN",55,2 Quartos,2 Banheiros,Cidade da Esperança
-R$ 3.000 /mês,0.0,"Avenida das Alagoas, 300 - Neópolis, Natal - RN",55,2 Quartos,2 Banheiros,Neópolis
-R$ 2.500 /mês,290.0,"Rua das Perdizes, 7979 - Pitimbu, Natal - RN",69,3 Quartos,2 Banheiros,Pitimbu
-R$ 3.200 /mês,0.0,"Rua das Algas - Ponta Negra, Natal - RN",57,2 Quartos,2 Banheiros,Ponta Negra
-R$ 5.800 /mês,0.0,"Rua Nossa Senhora de Lourdes, 1009 - Tirol, Natal - RN",50,2 Quartos,2 Banheiros,Tirol
-R$ 950 /mês,0.0,"Rua Lectícia Garcia, 265 - Neópolis, Natal - RN",47,2 Quartos,1 Banheiro,Neópolis
-R$ 1.850 /mês,458.0,"Rua Desportista Jeremias Pinheiro da Câmara Filho, 270 - Ponta Negra, Natal - RN",98,3 Quartos,2 Banheiros,Ponta Negra
-R$ 1.100 /mês,0.0,"Praça Marechal Deodoro, 647 - Tirol, Natal - RN",56,2 Quartos,1 Banheiro,Tirol
-"R$ 1.700 /mês
-Preço abaixo do mercado",0.0,"Rua das Algas, 2249 - Ponta Negra, Natal - RN",54,1 Quarto,2 Banheiros,Ponta Negra
-R$ 2.500 /mês,0.0,"Rua Doutor Osvaldo Fortes do Rego, 155 - Ponta Negra, Natal - RN",68,3 Quartos,1 Banheiro,Ponta Negra
-R$ 3.400 /mês,363.0,"Ponta Negra, Natal - RN",57,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.300 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",65,2 Quartos,2 Banheiros,Ponta Negra
-R$ 2.200 /mês,1.0,"Rua Samaria, 3632 - Candelária, Natal - RN",50,2 Quartos,1 Banheiro,Candelária
-R$ 2.000 /mês,0.0,"Rua Afonso Magalhães, 84 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,Ponta Negra
-R$ 1.800 /mês,0.0,"Capim Macio, Natal - RN",57,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.500 /mês,0.0,"Tirol, Natal - RN",50,2 Quartos,1 Banheiro,Tirol
-R$ 2.500 /mês,0.0,"Rua Historiador Francisco Fausto de Souza, 3445 - Capim Macio, Natal - RN",75,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.600 /mês,0.0,"Lagoa Seca, Natal - RN",46,2 Quartos,1 Banheiro,Lagoa Seca
-R$ 2.300 /mês,650.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",58,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.200 /mês,0.0,"Avenida Porto de Pedras, 4500 - Neópolis, Natal - RN",30,1 Quarto,1 Banheiro,Neópolis
-R$ 1.750 /mês,0.0,"Rua Edson Teixeira da Silva, 270 - Ponta Negra, Natal - RN",59,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.500 /mês,0.0,"Avenida Doutor João Medeiros Filho, 5100 - Redinha, Natal - RN",55,2 Quartos,2 Banheiros,Redinha
-R$ 3.000 /mês,0.0,"Rua Demócrito de Souza Paiva, 818 - Lagoa Nova, Natal - RN",56,2 Quartos,3 Banheiros,Lagoa Nova
-R$ 3.900 /mês,0.0,"Avenida Governador Sílvio Pedroza - Areia Preta, Natal - RN",55,2 Quartos,2 Banheiros,Areia Preta
-R$ 2.800 /mês,0.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",45,1 Quarto,1 Banheiro,Ribeira
-R$ 2.300 /mês,350.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",48,1 Quarto,1 Banheiro,Capim Macio
-R$ 1.380 /mês,0.0,"Avenida Olavo Lacerda Montenegro - PARNAMIRIM, Parnamirim - RN",60,2 Quartos,2 Banheiros,PARNAMIRIM
-R$ 2.100 /mês,0.0,"Rua Aurélio Pinheiro, 637 - Barro Vermelho, Natal - RN",59,2 Quartos,2 Banheiros,Barro Vermelho
-R$ 2.200 /mês,0.0,"Avenida Capitão-mor Gouveia, 1135 - Nossa Senhora de Nazaré, Natal - RN",70,2 Quartos,1 Banheiro,Nossa Senhora de Nazaré
-R$ 2.500 /mês,0.0,"Rua Doutor Manoel Augusto Bezerra de Araújo, 230 - Ponta Negra, Natal - RN",56,2 Quartos,1 Banheiro,Ponta Negra
-R$ 2.100 /mês,0.0,"Capim Macio, Natal - RN",84,3 Quartos,1 Banheiro,Capim Macio
-R$ 1.400 /mês,0.0,"Neópolis, Natal - RN",56,2 Quartos,1 Banheiro,Neópolis
-R$ 1.950 /mês,0.0,"Rua Sérgio Severo, 1341 - Lagoa Nova, Natal - RN",56,2 Quartos,1 Banheiro,Lagoa Nova
-R$ 1.000 /mês,350.0,"Rua Manoel Alves - Ponta Negra, Natal - RN",58,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.600 /mês,0.0,"Vila Gerda Maria, 1493 - Lagoa Nova, Natal - RN",50,1 Quarto,1 Banheiro,Lagoa Nova
-R$ 2.700 /mês,0.0,"Rua Barão de Lucena, 62 - Pitimbu, Natal - RN",70,3 Quartos,2 Banheiros,Pitimbu
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",70,2 Quartos,1 Banheiro,Candelária
-R$ 2.200 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",78,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.000 /mês,400.0,"Capim Macio, Natal - RN",65,2 Quartos,2 Banheiros,Capim Macio
-R$ 2.200 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.300 /mês,0.0,"Rua Praia de Manibu, 8809 - Ponta Negra, Natal - RN",35,1 Quarto,1 Banheiro,Ponta Negra
-R$ 3.000 /mês,0.0,"Rua Poeta Jorge Fernandes, 1 - Ponta Negra, Natal - RN",60,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.900 /mês,0.0,"Ponta Negra, Natal - RN",27,1 Quarto,1 Banheiro,Ponta Negra
-R$ 3.000 /mês,0.0,"Rua Lúcia Viveiros, 255 - Neópolis, Natal - RN",67,2 Quartos,2 Banheiros,Neópolis
-R$ 1.450 /mês,0.0,"Avenida Poços de Caldas, 2035 - Ponta Negra, Natal - RN",60,2 Quartos,1 Banheiro,Ponta Negra
-R$ 1.470 /mês,0.0,"Rua Vila do Mar, 118 - Ponta Negra, Natal - RN",47,2 Quartos,1 Banheiro,Ponta Negra
-R$ 700 /mês,1000.0,"Rua Doutor Paulo Viveiros, 558 - Petrópolis, Natal - RN",70,2 Quartos,1 Banheiro,Petrópolis
-R$ 1.100 /mês,0.0,"Avenida Moema Tinoco da Cunha Lima - Pajuçara, Natal - RN",41,2 Quartos,1 Banheiro,Pajuçara
-R$ 1.100 /mês,0.0,"Rua Tenente Petronilo Diogo Silva, 425 - Bom Pastor, Natal - RN",55,2 Quartos,2 Banheiros,Bom Pastor
-R$ 750 /mês,360.0,"Tirol, Natal - RN",50,1 Quarto,1 Banheiro,Tirol
-R$ 1.900 /mês,0.0,"Avenida Almirante Alexandrino de Alencar - Lagoa Seca, Natal - RN",50,2 Quartos,1 Banheiro,Lagoa Seca
-R$ 2.500 /mês,0.0,"Avenida das Brancas Dunas - Candelária, Natal - RN",55,2 Quartos,1 Banheiro,Candelária
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",113,2 Quartos,2 Banheiros,Candelária
-R$ 1.400 /mês,0.0,"Travessa Presidente Mascarenhas, 53 - Alecrim, Natal - RN",50,2 Quartos,1 Banheiro,Alecrim
-R$ 850 /mês,0.0,"Rua Santa Inês, 255 - Pajuçara, Natal - RN",46,2 Quartos,1 Banheiro,Pajuçara
-"R$ 1.350 /mês
-Preço abaixo do mercado",0.0,"Avenida Miguel Castro - Lagoa Nova, Natal - RN",65,2 Quartos,1 Banheiro,Lagoa Nova
-"R$ 1.400 /mês
-Preço abaixo do mercado",0.0,"Rua Alexandre Câmara - Capim Macio, Natal - RN",72,2 Quartos,2 Banheiros,Capim Macio
-R$ 1.200 /mês,0.0,"Rua Geraldo Barros Pereira - Capim Macio, Natal - RN",58,1 Quarto,1 Banheiro,Capim Macio
-R$ 2.600 /mês,0.0,"Rua Cabo de São Roque, 2073 - Ponta Negra, Natal - RN",60,2 Quartos,2 Banheiros,Ponta Negra
-R$ 1.700 /mês,0.0,"Rua Barão de Lucena, 62 - Pitimbu, Natal - RN",58,2 Quartos,2 Banheiros,Pitimbu
-"R$ 950 /mês
-Preço abaixo do mercado",753.0,"Rua Alcindo Dias de Oliveira, 1855 - Capim Macio, Natal - RN",75,3 Quartos,2 Banheiros,Capim Macio
-R$ 1.100 /mês,0.0,"Rua da Saudade, 1981 - Lagoa Nova, Natal - RN",29,1 Quarto,1 Banheiro,Lagoa Nova
-R$ 2.200 /mês,0.0,"Rua Samaria, 3632 - Candelária, Natal - RN",113,2 Quartos,1 Banheiro,Candelária
-R$ 2.600 /mês,0.0,"Avenida Prudente de Morais - Petrópolis, Natal - RN",58,1 Quarto,1 Banheiro,Petrópolis
+Preço abaixo do mercado",0.0,"Rua Poeta Jorge Fernandes, 405 - Ponta Negra, Natal - RN",60,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-60m2-aluguel-RS1700-id-2745250511/,Ponta Negra
+R$ 2.300 /mês,1.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",65,3 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-3-quartos-capim-macio-bairros-natal-com-garagem-65m2-aluguel-RS2300-id-2752670396/,Capim Macio
+R$ 2.000 /mês,0.0,"Rua Professor Pedro Pinheiro de Souza, 95 - Ponta Negra, Natal - RN",54,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-54m2-aluguel-RS2000-id-2741958862/,Ponta Negra
+R$ 2.200 /mês,0.0,"Rua Monsenhor José Paulino, 1061 - Tirol, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-com-garagem-56m2-aluguel-RS2200-id-2750971700/,Tirol
+R$ 2.750 /mês,0.0,"Avenida Governador Juvenal Lamartine, 800 - Tirol, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-tirol-bairros-natal-com-garagem-55m2-aluguel-RS2750-id-2752733602/,Tirol
+R$ 2.300 /mês,0.0,"Rua José Mauro de Vasconcelos, 1915 - Capim Macio, Natal - RN",76,3 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-3-quartos-capim-macio-bairros-natal-com-garagem-76m2-aluguel-RS2300-id-2753009333/,Capim Macio
+R$ 2.000 /mês,1.0,"Rua Eletricista Elias Ferreira, 32 - Candelária, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-candelaria-bairros-natal-com-garagem-56m2-aluguel-RS2000-id-2754463872/,Candelária
+R$ 2.200 /mês,0.0,"Ponta Negra, Natal - RN",53,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-53m2-aluguel-RS2200-id-2716239411/,Ponta Negra
+R$ 2.500 /mês,0.0,"Rua Aristides Porpino Filho, 512 - Ponta Negra, Natal - RN",56,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-ponta-negra-bairros-natal-com-garagem-56m2-aluguel-RS2500-id-2749113394/,Ponta Negra
+R$ 1.900 /mês,0.0,"Rua General Gustavo Cordeiro de Faria, 345 - Petrópolis, Natal - RN",55,2 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-2-quartos-petropolis-bairros-natal-com-garagem-55m2-aluguel-RS1900-id-2746747939/,Petrópolis
+R$ 2.950 /mês,0.0,"Rua Lúcia Viveiros, 649 - Neópolis, Natal - RN",72,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-neopolis-bairros-natal-com-garagem-72m2-aluguel-RS2950-id-2752685317/,Neópolis
+R$ 1.300 /mês,0.0,"Avenida Moema Tinoco da Cunha Lima, 885 - Pajuçara, Natal - RN",49,2 Quartos,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-2-quartos-pajucara-bairros-natal-com-garagem-49m2-aluguel-RS1300-id-2737151168/,Pajuçara
+R$ 2.500 /mês,500.0,"Rua Teotônio Freire, 75 - Ribeira, Natal - RN",79,3 Quartos,2 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-ribeira-bairros-natal-com-garagem-79m2-aluguel-RS2500-id-2750727022/,Ribeira
+R$ 3.000 /mês,0.0,"Avenida Estrela do Mar, 23444 - Ponta Negra, Natal - RN",40,1 Quarto,1 Banheiro,https://www.vivareal.com.br/imovel/apartamento-1-quartos-ponta-negra-bairros-natal-com-garagem-40m2-aluguel-RS3000-id-2753279188/,Ponta Negra
+R$ 2.500 /mês,0.0,"Rua Geraldo Barros Pereira - Capim Macio, Natal - RN",120,3 Quartos,3 Banheiros,https://www.vivareal.com.br/imovel/apartamento-3-quartos-capim-macio-bairros-natal-com-garagem-120m2-aluguel-RS2500-id-2753401431/,Capim Macio
